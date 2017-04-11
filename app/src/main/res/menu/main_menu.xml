@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/main_change_pass"
+        android:title="Change Password" />
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/main_about"
+        android:title="About" />
+</menu>

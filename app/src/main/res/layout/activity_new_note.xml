@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="cf.parks.a1note.activities.NewNoteActivity"
+    android:orientation="vertical" >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textColorPrimary"
+        android:padding="15dp"
+        android:layout_margin="5dp"
+        android:background="@color/background_white"
+
+        android:textSize="20sp"
+        android:hint="@string/title"
+        android:textColorHint="@color/textColorPrimary"
+        android:id="@+id/add_note_title"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:background="@color/background_white"
+        android:layout_margin="5dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:padding="15dp"
+
+                android:textSize="20sp"
+                android:hint="@string/type_your_note"
+                android:textColorHint="@color/textColorPrimary"
+                android:inputType="textMultiLine"
+                android:id="@+id/add_note_tnote"
+                android:layout_gravity="center_horizontal" />
+    </ScrollView>
+
+</LinearLayout>

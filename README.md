@@ -1,2 +1,4 @@
 # 1Note
 It's a Notes App.
+
+<img alt="Start Screen" src="https://raw.githubusercontent.com/Rajatrealorg/1note/master/Screenshots/Screenshot_2017-04-14-19-35-36.png" width="200"/> <img alt="Main Activity" src="https://raw.githubusercontent.com/Rajatrealorg/1note/master/Screenshots/Screenshot_2017-04-14-19-35-48.png" width="200"/> <img alt="Main Activity" src="https://raw.githubusercontent.com/Rajatrealorg/1note/master/Screenshots/Screenshot_2017-04-14-19-36-06.png" width="200"/> <img alt="Main Activity" src="https://raw.githubusercontent.com/Rajatrealorg/1note/master/Screenshots/Screenshot_2017-04-14-19-37-02.png" width="200"/> <img alt="Main Activity" src="https://raw.githubusercontent.com/Rajatrealorg/1note/master/Screenshots/Screenshot_2017-04-14-19-37-15.png" width="200"/> <img alt="Main Activity" src="https://raw.githubusercontent.com/Rajatrealorg/1note/master/Screenshots/Screenshot_2017-04-14-19-37-41.png" width="200"/>
